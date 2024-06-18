@@ -2,20 +2,22 @@
 <module type="EMPTY_MODULE" version="4">
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/guessing_game/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/hello_cargo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/branches/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/functions/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/loops/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/variables/src" isTestSource="false" />
-      <excludeFolder url="file://$MODULE_DIR$/guessing_game/target" />
-      <excludeFolder url="file://$MODULE_DIR$/hello_cargo/target" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/branches/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/functions/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/hello_cargo/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/variables/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/christmas_carol/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/projects/guessing_game/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
-      <excludeFolder url="file://$MODULE_DIR$/branches/target" />
-      <excludeFolder url="file://$MODULE_DIR$/functions/target" />
-      <excludeFolder url="file://$MODULE_DIR$/loops/target" />
-      <excludeFolder url="file://$MODULE_DIR$/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/branches/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/functions/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/hello_cargo/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/variables/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/christmas_carol/target" />
+      <excludeFolder url="file://$MODULE_DIR$/projects/guessing_game/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
