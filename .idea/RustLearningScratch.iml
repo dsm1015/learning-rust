@@ -7,6 +7,7 @@
       <sourceFolder url="file://$MODULE_DIR$/concepts/functions/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/concepts/hello_cargo/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/concepts/loops/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/ownership/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/concepts/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/projects/christmas_carol/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/projects/guessing_game/src" isTestSource="false" />
@@ -15,6 +16,7 @@
       <excludeFolder url="file://$MODULE_DIR$/concepts/functions/target" />
       <excludeFolder url="file://$MODULE_DIR$/concepts/hello_cargo/target" />
       <excludeFolder url="file://$MODULE_DIR$/concepts/loops/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/ownership/target" />
       <excludeFolder url="file://$MODULE_DIR$/concepts/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/projects/christmas_carol/target" />
       <excludeFolder url="file://$MODULE_DIR$/projects/guessing_game/target" />
