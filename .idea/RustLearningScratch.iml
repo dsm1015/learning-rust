@@ -11,6 +11,8 @@
       <sourceFolder url="file://$MODULE_DIR$/concepts/variables/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/projects/christmas_carol/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/projects/guessing_game/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/rectangles/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/concepts/enums/src" isTestSource="false" />
       <excludeFolder url="file://$MODULE_DIR$/target" />
       <excludeFolder url="file://$MODULE_DIR$/concepts/branches/target" />
       <excludeFolder url="file://$MODULE_DIR$/concepts/functions/target" />
@@ -20,6 +22,8 @@
       <excludeFolder url="file://$MODULE_DIR$/concepts/variables/target" />
       <excludeFolder url="file://$MODULE_DIR$/projects/christmas_carol/target" />
       <excludeFolder url="file://$MODULE_DIR$/projects/guessing_game/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/rectangles/target" />
+      <excludeFolder url="file://$MODULE_DIR$/concepts/enums/target" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
